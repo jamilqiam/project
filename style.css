@@ -56,9 +56,7 @@ position: r;
 
 }
 
-h3 {
 
-}
 .card::after{
     content:"AFG";
     position: absolute;
